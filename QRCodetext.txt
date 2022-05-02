@@ -1,0 +1,1 @@
+A python code that makes a scannable QR code
